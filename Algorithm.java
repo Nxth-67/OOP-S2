@@ -1,6 +1,7 @@
 public class Algorithm {
     public static void main(String[] args) {
       System.out.println("Bonjour!");
-      System.out.println("How are you?"); 
+      System.out.println("How are you?");
+      // kongfu 2026 
     }
 }
